@@ -1,0 +1,22 @@
+.header{
+  margin-top: 25px;
+  text-shadow: 1px 3px 1px black;
+  
+
+
+}
+.label{
+  color: chartreuse;
+  font-size: 25px;
+}
+
+.header > h1{
+    font-size: 50px;
+}
+
+.btn:hover{
+  background-image: linear-gradient(yellow,blue);
+}
+body{
+background-image: linear-gradient(to left,rgb(115, 241, 163),rgb(218, 97, 107));
+}
